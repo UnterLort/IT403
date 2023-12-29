@@ -1,0 +1,123 @@
+th,
+td {
+  border: 1px solid #ffebeb;
+  padding: 8px;
+  color: #ffebeb;
+}
+
+
+table {
+  margin-bottom: 20px;
+  border-collapse: separate;
+}
+
+caption {
+  font-weight: bold;
+  color: #ffebeb;
+  margin-bottom: 10px;
+}
+
+body {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a:link {
+  color: #b9d4b9;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #a59cff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #5f3737;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #5e5e52;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+header {
+  background-color: #1d343d;
+  padding: 10px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+h3 {
+  color: #4f75ff;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+
+h5 {
+  color: #4f75ff;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+p {
+  color: #000000;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="checkbox"],
+input[type="radio"] {
+  margin-bottom: 10px;
+}
+
+button[type="submit"] {
+  background-color: #1d343d;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #1d343d;
+  color: #6b6894;
+  padding: 10px;
+  text-align: center;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
